@@ -66,7 +66,10 @@ The goal of this project is to demonstrate how AI can support sustainable urban 
 - Real-time data integration  
 - More advanced prediction models  
 - Deployment on cloud platforms  
-- Expanded AI assistant capabilities  
+- Expanded AI assistant capabilities
+
+# Live Website:
+https://smart-city-insights--shubhalaxmipand.replit.app
 
 This project was created as part of learning and applying AI, Data Science, and Smart City concepts to solve real-world problems.
 
