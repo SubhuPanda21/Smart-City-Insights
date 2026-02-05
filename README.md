@@ -194,7 +194,7 @@ graph TB
 <details>
 <summary> Dashboard Overview</summary>
 
-![Dashboard](Dashboard.png)
+![Dashboard](assets/screenshotsDashboard.png)
 *Main dashboard showing real-time urban metrics and KPIs*
 
 </details>
