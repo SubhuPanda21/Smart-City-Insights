@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌆 AI Smart City Insights Platform
+#  AI Smart City Insights Platform
 
 ### *Empowering Sustainable Urban Development Through Artificial Intelligence*
 
@@ -16,7 +16,7 @@
 
 </div>
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Why This Project?](#-why-this-project)
@@ -41,11 +41,11 @@
   
 ---
 
-## 🎯 Overview
+##  Overview
 
 The **AI Smart City Insights Platform** is an advanced, intelligent system designed to revolutionize urban sustainability planning through the power of Artificial Intelligence and Data Science. This platform bridges the gap between complex urban data and actionable insights, enabling city planners, policymakers, and researchers to make data-driven decisions for sustainable urban development.
 
-### 🎥 Quick Introduction
+###  Quick Introduction
 
 > *Transform your city's data into sustainable action with AI-powered insights, predictive analytics, and interactive simulations.*
 
@@ -55,17 +55,17 @@ The **AI Smart City Insights Platform** is an advanced, intelligent system desig
 
 ---
 
-## 🌟 Why This Project?
+##  Why This Project?
 
 Urban centers worldwide face unprecedented challenges:
 
 | Challenge | Impact | Our Solution |
 |-----------|---------|--------------|
-| 🏭 **Air Pollution** | Affects 99% of global population ([WHO, 2024](https://www.who.int)) | Real-time pollution prediction & monitoring |
-| 🚗 **Traffic Congestion** | $166B annual cost in US alone | Computer vision traffic analysis |
-| ⚡ **Energy Waste** | 30% of urban energy wasted | Energy consumption forecasting |
-| 🌡️ **Climate Impact** | Urban heat islands +5-7°F | Environmental trend simulation |
-| 🌳 **Green Space Loss** | 50% decline in major cities | Green cover optimization tools |
+|  **Air Pollution** | Affects 99% of global population ([WHO, 2024](https://www.who.int)) | Real-time pollution prediction & monitoring |
+|  **Traffic Congestion** | $166B annual cost in US alone | Computer vision traffic analysis |
+|  **Energy Waste** | 30% of urban energy wasted | Energy consumption forecasting |
+|  **Climate Impact** | Urban heat islands +5-7°F | Environmental trend simulation |
+|  **Green Space Loss** | 50% decline in major cities | Green cover optimization tools |
 
 ### Our Impact Goals
 
@@ -79,13 +79,13 @@ Urban centers worldwide face unprecedented challenges:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 Interactive Data Dashboard
+###  Interactive Data Dashboard
 - Real-time visualization of 15+ urban metrics
 - Customizable sustainability indicators
 - Historical trend analysis
@@ -95,7 +95,7 @@ Urban centers worldwide face unprecedented challenges:
 </td>
 <td width="50%">
 
-### 🤖 AI Prediction Engine
+###  AI Prediction Engine
 - Machine learning models for trend forecasting
 - 85%+ prediction accuracy
 - Support for multiple algorithms
@@ -107,7 +107,7 @@ Urban centers worldwide face unprecedented challenges:
 <tr>
 <td width="50%">
 
-### 🔮 What-If Simulator
+###  What-If Simulator
 - Interactive scenario planning
 - Real-time impact visualization
 - Multi-parameter optimization
@@ -117,7 +117,7 @@ Urban centers worldwide face unprecedented challenges:
 </td>
 <td width="50%">
 
-### 📷 Computer Vision Module
+###  Computer Vision Module
 - Live traffic density analysis
 - Environmental condition detection
 - Automated image classification
@@ -129,7 +129,7 @@ Urban centers worldwide face unprecedented challenges:
 <tr>
 <td width="50%">
 
-### 🧠 Explainable AI (XAI)
+###  Explainable AI (XAI)
 - SHAP value visualizations
 - Feature importance rankings
 - Decision path explanations
@@ -139,7 +139,7 @@ Urban centers worldwide face unprecedented challenges:
 </td>
 <td width="50%">
 
-### 💬 AI Chat Assistant
+###  AI Chat Assistant
 - Natural language query interface
 - Context-aware responses
 - Sustainability best practices
@@ -152,7 +152,7 @@ Urban centers worldwide face unprecedented challenges:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph TB
@@ -187,12 +187,12 @@ graph TB
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 ### 📸 Screenshots
 
 <details>
-<summary>🏠 Dashboard Overview</summary>
+<summary> Dashboard Overview</summary>
 
 ![Dashboard](assets/screenshots/dashboard.png)
 *Main dashboard showing real-time urban metrics and KPIs*
@@ -200,7 +200,7 @@ graph TB
 </details>
 
 <details>
-<summary>🔮 What-If Simulator</summary>
+<summary> What-If Simulator</summary>
 
 ![Simulator](assets/screenshots/simulator.png)
 *Interactive scenario planning with real-time impact visualization*
@@ -208,7 +208,7 @@ graph TB
 </details>
 
 <details>
-<summary>📈 Prediction Analytics</summary>
+<summary> Prediction Analytics</summary>
 
 ![Predictions](assets/screenshots/predictions.png)
 *AI-powered environmental trend forecasting with confidence intervals*
@@ -216,7 +216,7 @@ graph TB
 </details>
 
 <details>
-<summary>📷 Computer Vision</summary>
+<summary> Computer Vision</summary>
 
 ![Vision](assets/screenshots/computer_vision.png)
 *Live traffic analysis and environmental monitoring*
@@ -224,7 +224,7 @@ graph TB
 </details>
 
 <details>
-<summary>🧠 Explainable AI</summary>
+<summary> Explainable AI</summary>
 
 ![XAI](assets/screenshots/explainable_ai.png)
 *Feature importance and model interpretation dashboard*
@@ -232,7 +232,7 @@ graph TB
 </details>
 
 
-## 💻 Technology Stack
+## Technology Stack
 
 ### Core Technologies
 
@@ -281,7 +281,7 @@ graph TB
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -421,7 +421,7 @@ heroku open
 
 ---
 
-## 📖 Usage
+##  Usage
 
 ### Getting Started Guide
 
@@ -442,12 +442,12 @@ The **Home Dashboard** provides:
 
 | Feature | Access Path | Description |
 |---------|-------------|-------------|
-| 📊 **Data Dashboard** | Sidebar → "Dashboard" | Visualize urban metrics |
-| 🤖 **AI Predictions** | Sidebar → "Predictions" | Generate forecasts |
-| 🔮 **What-If Analysis** | Sidebar → "Simulator" | Test scenarios |
-| 📷 **Vision Module** | Sidebar → "Computer Vision" | Analyze images |
-| 🧠 **Explainable AI** | Sidebar → "Model Insights" | Understand predictions |
-| 💬 **AI Assistant** | Sidebar → "Chat" | Ask questions |
+|  **Data Dashboard** | Sidebar → "Dashboard" | Visualize urban metrics |
+|  **AI Predictions** | Sidebar → "Predictions" | Generate forecasts |
+|  **What-If Analysis** | Sidebar → "Simulator" | Test scenarios |
+|  **Vision Module** | Sidebar → "Computer Vision" | Analyze images |
+|  **Explainable AI** | Sidebar → "Model Insights" | Understand predictions |
+|  **AI Assistant** | Sidebar → "Chat" | Ask questions |
 
 #### Step 3: Upload Your Data
 
@@ -484,7 +484,7 @@ date,pollution_level,traffic_density,green_cover,energy_consumption
 ### Example Workflows
 
 <details>
-<summary>📊 Analyzing Air Quality Trends</summary>
+<summary> Analyzing Air Quality Trends</summary>
 
 ```bash
 1. Navigate to "Data Dashboard"
@@ -497,7 +497,7 @@ date,pollution_level,traffic_density,green_cover,energy_consumption
 </details>
 
 <details>
-<summary>🔮 Simulating Green Space Increase</summary>
+<summary> Simulating Green Space Increase</summary>
 
 ```bash
 1. Go to "What-If Simulator"
@@ -513,7 +513,7 @@ date,pollution_level,traffic_density,green_cover,energy_consumption
 </details>
 
 <details>
-<summary>🤖 Predicting Traffic Patterns</summary>
+<summary> Predicting Traffic Patterns</summary>
 
 ```bash
 1. Open "AI Predictions"
@@ -596,7 +596,7 @@ ai-smart-city-insights/
 
 ---
 
-## 🔬 Features Deep Dive
+## Features Deep Dive
 
 ### 1. Interactive Data Dashboard
 
@@ -721,7 +721,7 @@ ai-smart-city-insights/
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 ### Model Performance Comparison
 
@@ -799,7 +799,7 @@ Mean Score: 88.9% ± 1.0%
 
 ---
 
-## 📊 Data Specifications
+##  Data Specifications
 
 ### Input Data Format
 
@@ -852,7 +852,7 @@ We provide sample datasets for testing:
 
 ---
 
-## 🛠️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -913,7 +913,7 @@ SCALING_METHOD = "standard"  # standard, minmax, robust
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ### Run Tests
 
@@ -986,7 +986,7 @@ Ensemble:       ███████████████████▌ 91.
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### ✅ Completed (v1.0)
 - [x] Core dashboard functionality
@@ -1021,7 +1021,7 @@ Ensemble:       ███████████████████▌ 91.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
@@ -1061,11 +1061,11 @@ We welcome contributions from the community! Here's how you can help:
 
 | Type | Description |
 |------|-------------|
-| 🐛 **Bug Reports** | Submit detailed issue with reproduction steps |
-| ✨ **Feature Requests** | Propose new features with use cases |
-| 📝 **Documentation** | Improve README, guides, or code comments |
-| 🧪 **Testing** | Add test cases or improve coverage |
-| 🎨 **UI/UX** | Enhance interface and user experience |
+|  **Bug Reports** | Submit detailed issue with reproduction steps |
+|  **Feature Requests** | Propose new features with use cases |
+|  **Documentation** | Improve README, guides, or code comments |
+|  **Testing** | Add test cases or improve coverage |
+|  **UI/UX** | Enhance interface and user experience |
 
 ### Code Style
 
@@ -1105,36 +1105,8 @@ flake8 .
 black .
 ```
 
----
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Your Name
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
-
----
-
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 This project was built with inspiration and support from:
 
@@ -1192,7 +1164,7 @@ If you find this project useful, please consider giving it a star! It helps othe
 
 <div align="center">
 
-### 📜 Citation
+###  Citation
 
 If you use this project in your research, please cite:
 
